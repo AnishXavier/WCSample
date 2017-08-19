@@ -1,0 +1,2 @@
+# WCSample
+Generic WC Repo
